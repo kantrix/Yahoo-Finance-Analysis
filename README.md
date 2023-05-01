@@ -11,8 +11,6 @@ A brief overview of how to analyze stock data from Yahoo Finance using Python an
 
 * Need to import the libraries and load the stock data from Yahoo Finance. You can use the pandas_datareader library to retrieve stock data directly from Yahoo Finance. The following code snippet shows how to retrieve the stock data for Apple (AAPL) over the last 5 years.
 
-* Use statsmodels to perform OLS regression analysis to predict future stock prices based on historical data.
-
 * use matplotlib to create visualizations of the data, such as line charts or scatter plots, to better understand the trends and patterns in the stock prices over time
 
 ![image](https://user-images.githubusercontent.com/43418706/235450795-9022c3f2-07e5-44e7-9ed0-326735f456fe.png)
