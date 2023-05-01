@@ -13,23 +13,23 @@ A brief overview of how to analyze stock data from Yahoo Finance using Python an
 
 * Use statsmodels to perform OLS regression analysis to predict future stock prices based on historical data.
 
-# use matplotlib to create visualizations of the data, such as line charts or scatter plots, to better understand the trends and patterns in the stock prices over time
+* use matplotlib to create visualizations of the data, such as line charts or scatter plots, to better understand the trends and patterns in the stock prices over time
 
 ![image](https://user-images.githubusercontent.com/43418706/235450795-9022c3f2-07e5-44e7-9ed0-326735f456fe.png)
 
-# Finding the possible futuristic movement of the stock
+* Finding the possible futuristic movement of the stock
 
 ![image](https://user-images.githubusercontent.com/43418706/235451037-01035518-850e-4650-b060-014a6457e57a.png)
 
-# Distplot of 50DMA
+* Distplot of 50DMA
 
 ![image](https://user-images.githubusercontent.com/43418706/235451077-4395eb83-17e7-4341-8730-fd688f4c95e2.png)
 
-# the close price
+* The close price
 
 ![image](https://user-images.githubusercontent.com/43418706/235451145-4a9cf90f-35e7-4a83-b3c2-bb75b09588cc.png)
 
-# Use statsmodels to perform OLS regression analysis on the data, identifying potential factors that may be driving the stock's performance and making predictions for future performance.
+* Use statsmodels to perform OLS regression analysis on the data, identifying potential factors that may be driving the stock's performance and making predictions for future performance.
 
 Closing Price vs 50DMA vs 200DMA
 
