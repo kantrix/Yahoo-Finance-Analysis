@@ -37,5 +37,5 @@ Closing Price vs 50DMA vs 200DMA
 By the end of this project, have a solid understanding of how to import, manipulate, and analyze stock data using Python and its libraries.
 
 ## Follow me:
-* Linkedin: https://www.linkedin.com/in/digiaiworld/
-* Portfolio: https://digiaiworld.netlify.app/
+* Linkedin: https://www.linkedin.com/in/kant-ai/
+* Portfolio: https://genrix.netlify.app/
