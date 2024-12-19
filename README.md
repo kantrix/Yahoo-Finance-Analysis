@@ -38,4 +38,4 @@ By the end of this project, have a solid understanding of how to import, manipul
 
 ## Follow me:
 * Linkedin: https://www.linkedin.com/in/kant-ai/
-* Portfolio: https://genrix.netlify.app/
+* Portfolio: https://kantrixai.netlify.app/
